@@ -29,7 +29,7 @@ const Projects = () => {
       title: "Mobil app-udvikling",
       description:
         "På 3. semester har jeg valgt mobilapp-udvikling som valgfag. Her kommer vi til at arbejde med React Native og bruge AI til at generere kode. Formålet er at udvikle et koncept, designe en brugerflade og implementere dele af den. Fokus er på, hvordan AI kan gøre udviklingen hurtigere og mere effektiv.",
-      image: "./projects-img/mobilapp-udvikling.png",
+      image: "./projects-img/mobilapp-udvikling-01.png",
       technologies: [
         "React Native",
         "CSS-lignende værktøj",
