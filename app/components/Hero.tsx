@@ -19,13 +19,13 @@ const Hero = () => {
       <div className="container mx-auto text-center">
         <div className="fade-in">
           <h1 className="hero-text mb-6">
-            Hello, I'm
+            Hej, jeg er
             <br />
             <span className="text-primary">Caroline</span>
           </h1>
           <p className="hero-subtitle mb-8 max-w-2xl mx-auto">
-            Front-End Developer passionate about creating beautiful, responsive
-            web experiences with modern technologies and clean, elegant design.
+            Front-End Developer med passion for at skabe smukke, responsive
+            weboplevelser med moderne teknologier og et rent, elegant design.
           </p>
         </div>
 
@@ -34,13 +34,13 @@ const Hero = () => {
             onClick={() => scrollToSection("projects")}
             className="btn-gradient"
           >
-            View My Work
+            Se Mine Projekter
           </Button>
           <Button
             onClick={() => scrollToSection("about")}
             className="btn-outline"
           >
-            Learn More
+            Læs Mere Om Mig
           </Button>
         </div>
 
