@@ -9,7 +9,7 @@ const Projects = () => {
       title: "Pipper Projekt",
       description:
         "På 3. semester udviklede vi “Pipper” som er et Twitter-inspireret projekt med en frontend udviklet i HTML, CSS og JavaScript samt en backend baseret på et PHP-API og en MySQL-database. Jeg er i øjeblikket i gang med at omskrive projektet til React med fokus på at udvikle genbrugelige komponenter. Formålet er at gøre applikationen mere overskuelig og skalerbar, så det bliver lettere at udvide funktionaliteten i fremtiden.",
-      image: "/projects-img/pipper-projekt.png",
+      image: "./projects-img/pipper-projekt.png",
       technologies: ["MySQL", "HTML", "CSS", "JavaScript", "PHP"],
       github: "https://github.com/carolinenorgaard/pipper",
       demo: "",
@@ -19,7 +19,7 @@ const Projects = () => {
       title: "Surdejsguiden",
       description:
         "Som eksamensprojekt på 2. semester udviklede vi Surdejsguiden – et website, der trin for trin viser, hvordan man kan starte, passe og bage med surdej. Idéen var at skabe en lærerig oplevelse, der både fangede opmærksomheden visuelt, gav brugbar viden og inviterede til interaktion.",
-      image: "/projects-img/surdejsguiden.png",
+      image: "./projects-img/surdejsguiden.png",
       technologies: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "Figma"],
       github: "https://github.com/carolinenorgaard/surdejsguiden",
       demo: "",
@@ -29,7 +29,7 @@ const Projects = () => {
       title: "Mobil app-udvikling",
       description:
         "På 3. semester har jeg valgt mobilapp-udvikling som valgfag. Her kommer vi til at arbejde med React Native og bruge AI til at generere kode. Formålet er at udvikle et koncept, designe en brugerflade og implementere dele af den. Fokus er på, hvordan AI kan gøre udviklingen hurtigere og mere effektiv.",
-      image: "/projects-img/mobilapp-udvikling.png",
+      image: "./projects-img/mobilapp-udvikling.png",
       technologies: [
         "React Native",
         "CSS-lignende værktøj",

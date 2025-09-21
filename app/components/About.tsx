@@ -34,7 +34,7 @@ const About = () => {
 
           <div className="fade-in">
             <img
-              src="/projects-img/portræt-caroline-01.JPG"
+              src="./projects-img/portræt-caroline-01.JPG"
               alt="Caroline Nørgaard Elmer"
               className="rounded-lg shadow-lg aspect-square object-cover "
               style={{ objectPosition: "50% 80%" }}
