@@ -24,17 +24,13 @@ const Header = () => {
   return (
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled
-          ? "bg-background/80 backdrop-blur-md border-b border-border/50"
-          : "bg-transparent"
+        isScrolled ? "bg-background/80 backdrop-blur-md" : "bg-transparent"
       }`}
     >
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold">
-            <span className="gradient-text">
-              Portfolio
-            </span>
+            <span className="gradient-text">Portfolio</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
@@ -42,31 +38,25 @@ const Header = () => {
               onClick={() => scrollToSection("hero")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Home
+              Hjem
             </button>
             <button
               onClick={() => scrollToSection("about")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              About
-            </button>
-            <button
-              onClick={() => scrollToSection("skills")}
-              className="text-foreground hover:text-primary transition-colors"
-            >
-              Skills
+              Om mig
             </button>
             <button
               onClick={() => scrollToSection("projects")}
               className="text-foreground hover:text-primary transition-colors"
             >
-              Projects
+              Projekter
             </button>
             <Button
               onClick={() => scrollToSection("contact")}
               className="btn-gradient"
             >
-              Contact
+              Kontakt
             </Button>
           </div>
 
