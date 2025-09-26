@@ -133,7 +133,9 @@ const Projects = () => {
             min læringsrejse!
           </p>
           <Button
-            onClick={() => window.open("https://github.com", "_blank")}
+            onClick={() =>
+              window.open("https://github.com/carolinenorgaard/", "_blank")
+            }
             className="btn-outline"
           >
             <Github className="w-4 h-4 mr-2" />
