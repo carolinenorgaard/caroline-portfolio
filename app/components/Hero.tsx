@@ -47,23 +47,23 @@ const Hero = () => {
 
         <div className="fade-in-delay flex items-center justify-center space-x-6 mb-16">
           <a
-            href="https://github.com"
+            href="https://github.com/carolinenorgaard/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
           >
             <Github size={24} />
           </a>
-          <a
+          {/* <a
             href="https://linkedin.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
           >
             <Linkedin size={24} />
-          </a>
+          </a> */}
           <a
-            href="mailto:hello@example.com"
+            href="mailto:caroline.norgaard.elmer@gmail.com"
             className="text-muted-foreground hover:text-primary transition-colors"
           >
             <Mail size={24} />
