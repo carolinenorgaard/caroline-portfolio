@@ -11,23 +11,20 @@ const About = () => {
               <p>
                 Jeg hedder Caroline, er 26 år og bor på Frederiksberg. Jeg er i
                 gang med at uddanne mig til multimediedesigner med fokus på
-                frontend-udvikling. Selvom jeg stadig er ny i branchen, har jeg
-                erfaring med HTML, CSS, JavaScript og React, og jeg synes, det
-                er spændende at se, hvordan små kodebidder kan blive til
-                brugbare og visuelle løsninger.
+                frontend-udvikling, fordi jeg brænder for at forvandle idéer til
+                levende digitale løsninger. Med erfaring i HTML, CSS, JavaScript
+                og React har jeg allerede oplevet, hvordan selv små linjer kode
+                kan udvikle sig til intuitive og brugbare designs – og den
+                proces motiverer mig enormt.
               </p>
               <p>
-                Jeg lærer bedst ved at prøve ting af i praksis og er nysgerrig
-                på at opleve, hvordan det er at arbejde med rigtige projekter,
-                og større kodebaser med et team. Jeg går til opgaver med
-                engagement og gåpåmod og ser udfordringer som en chance for at
-                udvikle mig både fagligt og personligt.
-              </p>
-              <p>
-                Når jeg ikke koder, udforsker jeg gerne nye trends inden for
-                design og teknologi – og jeg er særligt interesseret i, hvordan
-                AI og digitale løsninger hele tiden er med til at forme vores
-                hverdag.
+                Jeg er nysgerrig af natur og lærer bedst ved at kaste mig ud i
+                nye udfordringer og teste ting af i praksis. Derfor glæder jeg
+                mig til at arbejde med rigtige projekter, større kodebaser og
+                teamsamarbejde, hvor jeg kan bidrage aktivt og samtidig suge ny
+                viden til mig. Jeg møder opgaver med energi, engagement og
+                gåpåmod – og jeg ser hver udfordring som en mulighed for at
+                vokse både fagligt og personligt.
               </p>
             </div>
           </div>

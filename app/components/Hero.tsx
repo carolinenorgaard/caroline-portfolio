@@ -24,8 +24,9 @@ const Hero = () => {
             <span className="text-primary">Caroline</span>
           </h1>
           <p className="hero-subtitle mb-8 max-w-2xl mx-auto">
-            Front-End Developer med passion for at skabe smukke, responsive
-            weboplevelser med moderne teknologier og et rent, elegant design.
+            Front-End Developer med passion for at skabe brugervenlige
+            weboplevelser med HTML, CSS, JavaScript og React. Jeg har fokus på
+            fleksible løsninger, og lyst til hele tiden at lære nyt.
           </p>
         </div>
 
